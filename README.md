@@ -47,3 +47,7 @@ seaborn
 Power BI Desktop
 
 Used for final visualization deck (PPT export)
+
+📁 Files Included .pbix Power BI file
+Data source (CSV or Excel, if available)
+Screenshots of dashboards below attached 👇
