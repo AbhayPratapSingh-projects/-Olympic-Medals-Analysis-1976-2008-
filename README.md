@@ -53,3 +53,5 @@ Data source (CSV or Excel, if available)
 Screenshots of dashboards below attached 👇
 https://github.com/AbhayPratapSingh-projects/-Olympic-Medals-Analysis-1976-2008-/blob/main/Summer-Olympic-medals-1976-to-2008.pbix
 
+https://github.com/AbhayPratapSingh-projects/-Olympic-Medals-Analysis-1976-2008-/blob/main/Screenshot%202025-11-30%20143509.png
+
